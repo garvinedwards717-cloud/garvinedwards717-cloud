@@ -65,3 +65,60 @@ Desktop GUI development
 
 GitHub
 https://github.com/garvinedwards717-cloud
+
+🚀 Featured Projects
+
+🎮 Hangman GUI
+
+A polished desktop Hangman game built with Python and Pygame, featuring animated menus, word categories, difficulty levels, sound effects, and score tracking.
+
+🔗 https://github.com/garvinedwards717-cloud/Hangman-GUI
+
+---
+
+📂 File Organizer GUI
+
+A Python desktop tool that automatically organizes files into categorized folders, supports folder monitoring, and includes undo functionality.
+
+🔗 https://github.com/garvinedwards717-cloud/FileOrganizer-GUI
+
+---
+
+📊 Excel Report Automation
+
+A Python automation script that processes raw Excel sales data, cleans it using Pandas, and generates summaries and charts automatically.
+
+🔗 https://github.com/garvinedwards717-cloud/Excel-Report-Automation
+
+---
+
+🛠 Technologies
+
+Python
+Pandas
+Tkinter
+Pygame
+Automation scripting
+Desktop GUI development
+
+---
+
+🎯 What I Build
+
+• Python automation tools
+• Desktop applications
+• Data processing tools
+• Productivity software
+
+---
+
+📈 GitHub Stats
+
+<p align="center">"Garvin's GitHub stats" (https://github-readme-stats.vercel.app/api?username=garvinedwards717-cloud&show_icons=true&theme=default)
+
+</p>---
+
+🌐 Connect With Me
+
+GitHub
+https://github.com/garvinedwards717-cloud
