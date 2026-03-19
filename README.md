@@ -1,67 +1,53 @@
-<p align="center">👋 Hi, I'm Garvin Edwards
+# 🚀 AutoForge
 
-Python Developer focused on automation tools, desktop applications, and productivity software
-
-</p><p align="center">"Python" (https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge)
-"Automation" (https://img.shields.io/badge/Automation-Tools-green?style=for-the-badge)
-"Desktop Apps" (https://img.shields.io/badge/Desktop-Applications-orange?style=for-the-badge)
-"Open Source" (https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge)
-
-</p>---
-
-🚀 Featured Projects
-
-🎮 Hangman GUI
-
-A polished desktop Hangman game built with Python and Pygame, featuring animated menus, word categories, difficulty levels, sound effects, and score tracking.
-
-🔗 https://github.com/garvinedwards717-cloud/Hangman-GUI
+Automation tools designed to eliminate repetitive tasks and improve workflow efficiency.
 
 ---
 
-📂 File Organizer GUI
-
-A Python desktop tool that automatically organizes files into categorized folders, supports folder monitoring, and includes undo functionality.
-
-🔗 https://github.com/garvinedwards717-cloud/FileOrganizer-GUI
+## 🧠 What I Build
+I create practical Python-based desktop tools focused on real-world productivity.
 
 ---
 
-📊 Excel Report Automation
+## 🧰 Tools
 
-A Python automation script that processes raw Excel sales data, cleans it using Pandas, and generates summaries and charts automatically.
-
-🔗 https://github.com/garvinedwards717-cloud/Excel-Report-Automation
-
----
-
-🛠 Technologies
-
-Python
-Pandas
-Tkinter
-Pygame
-Automation scripting
-Desktop GUI development
+### 📁 Smart File Organizer  
+Automatically sorts and organizes files into structured folders  
+👉 https://github.com/AutoForge-atd/FileOrganizer-GUI  
 
 ---
 
-🎯 What I Build
-
-• Python automation tools
-• Desktop applications
-• Data processing tools
-• Productivity software
+### 📊 Excel Report Automation  
+Cleans data, generates reports, and creates visual charts  
+👉 https://github.com/AutoForge-atd/Excel-Report-Automation  
 
 ---
 
-📈 GitHub Stats
+### 🧾 Smart Invoice Generator  
+Generate professional invoices instantly  
+👉 https://github.com/AutoForge-atd/Smart-Invoice-Generator  
 
-<p align="center">"Garvin's GitHub stats" (https://github-readme-stats.vercel.app/api?username=garvinedwards717-cloud&show_icons=true&theme=default)
+---
 
-</p>---
+### 📄 PDF Toolkit Pro  
+Merge, split, and extract PDF pages with ease  
+👉 Available on Gumroad  
 
-🌐 Connect With Me
+---
 
-GitHub
-https://github.com/garvinedwards717-cloud
+## 🔗 Links
+- 💼 Gumroad: https://gumroad.com/products
+- 💻 GitHub: https://github.com/AutoForge-atd  
+
+---
+
+## 📩 Support
+Contact: autoforge.atd@gmail.com  
+Response time: 24–48 hours  
+
+---
+
+## 📜 License
+Personal Use License – This product may not be resold, redistributed, or used for commercial resale.
+
+
